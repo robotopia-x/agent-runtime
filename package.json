@@ -1,0 +1,29 @@
+{
+  "name": "@robotopia/agent-runtime",
+  "version": "1.0.0",
+  "description": "runtime to create JavaScript controlled agents which can interact with an external turn based simulated environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotopia-x/agent-runtime.git"
+  },
+  "keywords": [
+    "runtime",
+    "javascript",
+    "agent",
+    "scriptable",
+    "simulation"
+  ],
+  "author": "Paul Sonnentag <Paul.Sonnentag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robotopia-x/agent-runtime/issues"
+  },
+  "homepage": "https://github.com/robotopia-x/agent-runtime#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
