@@ -1,5 +1,4 @@
 const _ = require('lodash')
-
 const Agent = require('./agent')
 
 class Runtime {
